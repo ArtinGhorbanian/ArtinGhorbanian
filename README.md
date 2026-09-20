@@ -16,7 +16,7 @@ I connect interfaces, APIs and data into usable web applications. My focus is AI
 | --- | --- |
 | [PsyDesign AI](https://github.com/ArtinGhorbanian/PsyDesign-AI) | A multilingual brand-direction workspace with structured reports, persona chat and session history. Includes a local demo and an optional AI provider. |
 | [AIONEX AI Companions](https://github.com/ArtinGhorbanian/aionex-ai-companions) | A local conversation prototype with streamed replies, user-controlled memory and multilingual interfaces. |
-| [Art Flow Pro](https://github.com/ArtinGhorbanian/art-flow-pro) | A browser design canvas and resume workspace with a print/PDF workflow. |
+| [AIONEX](https://github.com/ArtinGhorbanian/AIONEX) | A prototype for discovering space life-science literature through PubMed, with extractive analysis and transparent signals. |
 
 These are prototypes and technical previews. Each repository explains its current capabilities, setup and limitations.
 
@@ -36,4 +36,3 @@ I'm open to freelance web development, AI integration and improvements to existi
 [Message me on LinkedIn](https://www.linkedin.com/in/artin-ghorbanian/) · [Explore my portfolio](https://artinghorbanian.com)
 
 برای همکاری می‌توانید فارسی هم پیام بدهید.
-
